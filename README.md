@@ -53,9 +53,9 @@
 ## ⏱️ Dev Metrics (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -105,13 +105,6 @@ YAML                     15 mins             ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  14 hrs 40 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-monorepositorix          12 hrs 11 mins      █████████████████████░░░░   83.04 % 
-myMemo                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-bonemine                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-steeple.local            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
 💻 Operating System: 
 WSL                      12 hrs 25 mins      █████████████████████░░░░   84.63 % 
 Windows                  2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
@@ -129,12 +122,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Yasser5711/Yasser5711/main/assets/bar_graph.png)
-
-
- Last Updated on 21/12/2025 05:51:25 UTC
+ Last Updated on 21/12/2025 06:14:47 UTC
 <!--END_SECTION:waka-->
 
 ---
