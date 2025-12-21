@@ -1,5 +1,5 @@
 <h1 align="center">
-  Salam, Ich bin Yasser Mekhfi! 👋
+  Salam! Ich bin Yasser Mekhfi 👋
   <br/>
   <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;Full-Stack+Dev+🚀;DevOps+Practitioner;Clean+Architecture+Lover&center=true&width=500&height=30&duration=3000&pause=500&color=36BCF7&vCenter=true&size=22&random=true&font=Fira+Code" />
 </h1>
@@ -46,18 +46,95 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yasser5711&theme=monokai&no-bg=true&row=2&column=4" />
 </p>
 
----
 
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
 ## ⏱️ Dev Metrics (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%201%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 946 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 41 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1030 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌆 Daytime                2800 commits        ████████████░░░░░░░░░░░░░   48.82 % 
+🌃 Evening                1192 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌙 Night                  713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   963 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Tuesday                  1058 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Wednesday                707 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Thursday                 813 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Friday                   930 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Saturday                 313 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Sunday                   951 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               9 hrs 55 mins       █████████████████░░░░░░░░   67.59 % 
+Vue.js                   2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 40 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+monorepositorix          12 hrs 11 mins      █████████████████████░░░░   83.04 % 
+myMemo                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+bonemine                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+steeple.local            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+💻 Operating System: 
+WSL                      12 hrs 25 mins      █████████████████████░░░░   84.63 % 
+Windows                  2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Vue                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Yasser5711/Yasser5711/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/12/2025 05:51:25 UTC
 <!--END_SECTION:waka-->
 
 ---
