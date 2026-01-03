@@ -15,7 +15,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE : "True"
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE : "chore: update waka stats"
-          SHOW_PROFILE_VIEWS: "False"  
+          SHOW_LINES_OF_CODE: "True"
+          COMMIT_MESSAGE: "chore: update waka stats"
+          SHOW_PROFILE_VIEWS: "False"
