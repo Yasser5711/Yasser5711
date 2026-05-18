@@ -42,15 +42,15 @@
 ## ⏱️ Dev Metrics (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C850%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C872%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 773 Contributions in the Year 2026
+> 🏆 781 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 20:11:45 UTC
+ Last Updated on 18/05/2026 20:21:12 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
