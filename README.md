@@ -42,15 +42,15 @@
 ## ⏱️ Dev Metrics (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C015%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,009 Contributions in the Year 2026
+> 🏆 1,026 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4611 commits        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-🌆 Daytime                8775 commits        ████████████░░░░░░░░░░░░░   49.67 % 
-🌃 Evening                2668 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-🌙 Night                  1612 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+🌞 Morning                4614 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌆 Daytime                8824 commits        ████████████░░░░░░░░░░░░░   49.71 % 
+🌃 Evening                2691 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌙 Night                  1623 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3526 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Tuesday                  3546 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Wednesday                3712 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Thursday                 2260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   1818 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Saturday                 843 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Sunday                   1961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Monday                   3524 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Tuesday                  3558 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Wednesday                3718 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Thursday                 2270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Friday                   1832 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Saturday                 881 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Sunday                   1969 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 ```
 
 
@@ -85,35 +85,35 @@ Sunday                   1961 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 hrs 28 mins       ████████████████░░░░░░░░░   63.79 % 
-YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+TypeScript               8 hrs 18 mins       ██████████████░░░░░░░░░░░   55.12 % 
+YAML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Docker                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        █████████████████░░░░░░░░   69.23 % 
-Claude Code              3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+VS Code                  11 hrs 28 mins      ███████████████████░░░░░░   76.09 % 
+Claude Code              3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
 
 💻 Operating System: 
-Windows                  9 hrs 32 mins       ████████████████████░░░░░   81.44 % 
-WSL                      2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Windows                  12 hrs 54 mins      █████████████████████░░░░   85.58 % 
+WSL                      2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 01/07/2026 20:41:18 UTC
+ Last Updated on 03/07/2026 20:14:44 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
