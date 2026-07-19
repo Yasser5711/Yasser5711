@@ -58,6 +58,21 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C039%20hrs%2017%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 50 mins       ██████████████░░░░░░░░░░░   55.67 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+```
+
+
+ Last Updated on 19/07/2026 11:47:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
