@@ -58,8 +58,6 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C039%20hrs%2017%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -72,7 +70,7 @@ Bash                     16 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/07/2026 11:47:34 UTC
+ Last Updated on 19/07/2026 12:13:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
