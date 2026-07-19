@@ -18,7 +18,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           COMMIT_MESSAGE: "chore: update waka stats"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
