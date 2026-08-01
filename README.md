@@ -55,7 +55,15 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 ## Coding activity
 
 <details>
-<summary>Weekly coding activity</summary>
+<summary>All-time and weekly coding activity</summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liart-33.vercel.app/api/wakatime?username=yasser5711&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liart-33.vercel.app/api/wakatime?username=yasser5711&layout=compact&hide_border=true&langs_count=8" />
+    <img alt="All-time WakaTime stats: TypeScript, Vue.js and Python lead Yasser Mekhfi's tracked coding time." src="https://github-readme-stats-ten-liart-33.vercel.app/api/wakatime?username=yasser5711&layout=compact&hide_border=true&langs_count=8" />
+  </picture>
+</p>
 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2045%20mins-blue?style=flat)
