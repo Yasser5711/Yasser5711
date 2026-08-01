@@ -66,27 +66,19 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2045%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 17 mins       ██████████████████░░░░░░░   73.47 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
+TypeScript               4 hrs 27 mins       ████████████████░░░░░░░░░   64.87 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Vue                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 
 
- Last Updated on 29/07/2026 19:52:31 UTC
+ Last Updated on 01/08/2026 18:00:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
