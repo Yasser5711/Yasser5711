@@ -66,20 +66,19 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 </p>
 
 <!--START_SECTION:waka-->
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
-TypeScript               16 hrs 20 mins      ███████████░░░░░░░░░░░░░░   43.11 %
-Other                    7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-Text                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-CSS                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+💬 Programming Languages: 
+TypeScript               10 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   35.09 % 
+Other                    9 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Markdown                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Text                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
-Last Updated on 30/09/2026 22:29:03 UTC
 
+ Last Updated on 02/10/2026 22:27:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
