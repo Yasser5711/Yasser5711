@@ -5,9 +5,9 @@
 <p align="center">I design and build modern web applications that balance performance, clean architecture, and elegant user experiences.</p>
 
 <p align="center">
-  <a href="https://www.yassermekhfi.me/">Portfolio</a> ·
+  <a href="https://www.yassermekhfi.dev/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/yasser-mekhfi">LinkedIn</a> ·
-  <a href="mailto:yasser.mekhfi@yassermekhfi.me">Email</a> ·
+  <a href="mailto:yasser.mekhfi@yahoo.com">Email</a> ·
   <a href="https://pub-c5021ebab5d9468b93886a08c349818f.r2.dev/production/cv/b82fbbd6-eaf6-411f-a752-3105bf183b3b-cv2.pdf">Download CV</a> ·
   <a href="https://github.com/Yasser5711">GitHub</a>
 </p>
@@ -19,20 +19,20 @@
 
 ## Selected work
 
-- **myMemo** — unified notes, tasks, reminders, and a shared timeline in a cross-platform TypeScript monorepo. [Visit myMemo](https://mymemo.yassermekhfi.me)
-- **MyWatchlist** — Nuxt, Vue, and TypeScript movie and TV discovery with favorites, watch history, and AI-assisted recommendations. [Visit MyWatchlist](https://mywatchlist.yassermekhfi.me)
-- **M2Predict** — real-estate valuation and uncertainty scoring on French DVF data, served through a production REST API. [Visit M2Predict](https://m2predict.yassermekhfi.me) · [M2Predict source](https://github.com/Yasser5711/M2Predict)
+- **myMemo** — unified notes, tasks, reminders, and a shared timeline in a cross-platform TypeScript monorepo. [Visit myMemo](https://mymemo.yassermekhfi.dev)
+- **MyWatchlist** — Nuxt, Vue, and TypeScript movie and TV discovery with favorites, watch history, and AI-assisted recommendations. [Visit MyWatchlist](https://mywatchlist.yassermekhfi.dev)
+- **M2Predict** — real-estate valuation and uncertainty scoring on French DVF data, served through a production REST API. [Visit M2Predict](https://m2predict.yassermekhfi.dev) · [M2Predict source](https://github.com/Yasser5711/M2Predict)
 - **CryptoFlow** — real-time Binance, Kafka, and InfluxDB pipeline with TypeScript services and live candlestick charting. [CryptoFlow source](https://github.com/Yasser5711/CryptoFlow)
 
-[See the full project portfolio](https://www.yassermekhfi.me/#projects)
+[See the full project portfolio](https://www.yassermekhfi.dev/#projects)
 
 ## Toolbox
 
-| Area | Tools |
-| --- | --- |
-| Frontend | TypeScript, Vue, Nuxt, Next.js, React |
-| Backend & APIs | Node.js, Fastify, FastAPI, tRPC, Drizzle, PostgreSQL |
-| Data & AI | Python, TensorFlow, scikit-learn |
+| Area               | Tools                                                          |
+| ------------------ | -------------------------------------------------------------- |
+| Frontend           | TypeScript, Vue, Nuxt, Next.js, React                          |
+| Backend & APIs     | Node.js, Fastify, FastAPI, tRPC, Drizzle, PostgreSQL           |
+| Data & AI          | Python, TensorFlow, scikit-learn                               |
 | Platform & tooling | Docker, GitHub Actions, Vercel, Cloudflare Workers, Yarn, pnpm |
 
 ## Contribution activity
@@ -66,19 +66,20 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               16 hrs 20 mins      ███████████░░░░░░░░░░░░░░   43.11 % 
-Other                    7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Text                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-CSS                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+💬 Programming Languages:
+TypeScript               16 hrs 20 mins      ███████████░░░░░░░░░░░░░░   43.11 %
+Other                    7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+Text                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+CSS                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
+Last Updated on 30/09/2026 22:29:03 UTC
 
- Last Updated on 30/09/2026 22:29:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
