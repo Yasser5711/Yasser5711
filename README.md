@@ -70,15 +70,15 @@ Prefer the static version? [View the native contribution calendar on my GitHub o
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   35.09 % 
-Other                    9 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Markdown                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Text                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Other                    8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+TypeScript               7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.79 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 
- Last Updated on 02/10/2026 22:27:30 UTC
+ Last Updated on 06/10/2026 00:14:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
